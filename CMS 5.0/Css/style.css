@@ -1,0 +1,11 @@
+.form-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+a.nav-link, 
+a.navbar-brand{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
